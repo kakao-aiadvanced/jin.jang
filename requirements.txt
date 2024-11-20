@@ -6,3 +6,5 @@ langchain~=0.3.7
 langchain-community~=0.3.7
 langchain-core~=0.3.19
 langchain-text-splitters~=0.3.2
+typing_extensions~=4.12.2
+langgraph~=0.2.52
